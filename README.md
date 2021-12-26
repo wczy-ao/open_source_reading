@@ -1,1 +1,2 @@
 # open_source_reading
+主要是为了学习英语和了解一些新的东西
